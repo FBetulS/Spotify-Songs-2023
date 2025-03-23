@@ -3,11 +3,11 @@
 
 Bu proje, 2023 yılında en çok dinlenen Spotify şarkılarını analiz etmek ve öneri sistemleri geliştirmek amacıyla hazırlanmıştır. Kullanıcıların sevdikleri şarkılara benzer müzik önerileri alabilmesi için çeşitli makine öğrenimi ve veri analizi teknikleri kullanılmaktadır.
 
-## 🔗 Kaggle Veri Seti
-[2023 En Çok Dinlenen Spotify Şarkıları]
-
 ## 🔗 Hugging Face Uygulaması
-[Spotify Songs 2023 - Hugging Face Space]
+[Spotify Songs 2023 - Hugging Face Space](https://huggingface.co/spaces/btulftma/Spotify_Songs_2023)
+
+## 🔗 Kaggle Veri Seti
+[2023 En Çok Dinlenen Spotify Şarkıları](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 
 ## 📊 Proje Aşamaları
 1. **Veri Yükleme ve Ön İşleme**:
