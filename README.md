@@ -3,6 +3,9 @@
 
 Bu proje, 2023 yılında en çok dinlenen Spotify şarkılarını analiz etmek ve öneri sistemleri geliştirmek amacıyla hazırlanmıştır. Kullanıcıların sevdikleri şarkılara benzer müzik önerileri alabilmesi için çeşitli makine öğrenimi ve veri analizi teknikleri kullanılmaktadır.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 🔗 Hugging Face Uygulaması
 [Spotify Songs 2023 - Hugging Face Space](https://huggingface.co/spaces/btulftma/Spotify_Songs_2023)
 
